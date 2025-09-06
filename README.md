@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ajaz Jamadar**
 - GitHub: [@ajazjamadar](https://github.com/ajazjamadar)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/md-eajazuddin-jamadar-359810258/)
 
 ## 🙏 Acknowledgments
 
