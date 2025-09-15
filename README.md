@@ -10,7 +10,7 @@ A stunning 3D interactive weather application featuring a mesmerizing solar syst
 
 ## 🚀 Live Demo
 
-Experience the app live: [https://ajazjamadar.github.io/Advanced-Weather-App/](https://ajazjamadar.github.io/Advanced-Weather-App/)
+Experience the app live: [https://ajazjamadar.github.io/Advanced-Weather-App/](https://advanced-weather-app-seven.vercel.app/)
 
 ## ✨ Features
 
